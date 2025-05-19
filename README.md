@@ -29,7 +29,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-333?&logo=css3)
 ![PHP](https://img.shields.io/badge/-PHP-333?&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-333?&logo=sqlite)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?&logo=node.js)
 
 ---
@@ -38,10 +37,8 @@
 
 ![Git](https://img.shields.io/badge/-Git-333?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?&logo=github)
-![Postman](https://img.shields.io/badge/-Postman-333?&logo=postman)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?&logo=visual-studio-code)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333?&logo=visual-studio)
-![Linux](https://img.shields.io/badge/-Linux-333?&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-333?&logo=windows)
 
 ---
@@ -58,11 +55,8 @@
 
 ### ⚙️ **Other Skills**
 
-![Firebase](https://img.shields.io/badge/-Firebase-333?&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?&logo=mongodb)
 ![Docker](https://img.shields.io/badge/-Docker-333?&logo=docker)
-![Figma](https://img.shields.io/badge/-Figma-333?&logo=figma)
-![Trello](https://img.shields.io/badge/-Trello-333?&logo=trello)
 
 ---
 
