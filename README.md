@@ -19,7 +19,9 @@
 🎯 Motto: *“Code not just to build, but to empower.”*
 
 ---
-<img src="https://komarev.com/ghpvc/?username=janak-joshi6789&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=janak-joshi6789&label=🔥+Profile+Views&color=FF69B4&style=for-the-badge" alt="GitHub Profile Views" />
+</p>
 
 ---
 
