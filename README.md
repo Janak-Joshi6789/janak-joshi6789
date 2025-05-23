@@ -19,9 +19,6 @@
 🎯 Motto: *“Code not just to build, but to empower.”*
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=janak-joshi6789&label=🔥+Profile+Views&color=FF69B4&style=for-the-badge" alt="GitHub Profile Views" />
-</p>
 
 ---
 
@@ -84,6 +81,10 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=flat)](https://www.instagram.com/janakjoshi6789/)
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=janak-joshi6789&label=🔥+Profile+Views&color=FF69B4&style=for-the-badge" alt="GitHub Profile Views" />
+</p>
+
 ---
 
 *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
