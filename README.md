@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm a final-year Computer Engineering student with a deep curiosity for all things tech.  
+🎓 I'm a final-year Computer Engineering student with a deep curiosity for all tech things.  
 👨‍💻 Passionate about building solutions that make life easier through technology.  
 🌐 Skilled in frontend & backend technologies — including PHP, JavaScript, React, HTML, CSS, and MySQL.  
 🧠 Always learning new frameworks, tools, and languages to stay ahead in the tech game.  
