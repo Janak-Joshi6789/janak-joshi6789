@@ -1,5 +1,5 @@
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=700&color=F72585&background=00000000&center=true&vCenter=true&width=700&lines=🔥+Hey+there+👋+I'm+Janak+Joshi!❤️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=700&color=F72585&background=00000000&center=true&vCenter=true&width=700&lines=🙏+Hey+there+👋+I'm+Janak+Joshi!❤️)](https://git.io/typing-svg)
 
 ---
 
