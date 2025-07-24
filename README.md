@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm a final-year Computer Engineering student with a deep curiosity for all tech things.  
+🎓 I'm a Computer Engineering graduate with a deep curiosity for all tech things.  
 👨‍💻 Passionate about building solutions that make life easier through technology.  
 🌐 Skilled in frontend & backend technologies — including PHP, JavaScript, React, HTML, CSS, and MySQL.  
 🧠 Always learning new frameworks, tools, and languages to stay ahead in the tech game.  
@@ -34,8 +34,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-333?&logo=css3)
 ![PHP](https://img.shields.io/badge/-PHP-333?&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?&logo=mysql)
-![Node.js](https://img.shields.io/badge/-Node.js-333?&logo=node.js)
-
+************will updated soon**************
 ---
 
 ---
@@ -47,6 +46,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?&logo=visual-studio-code)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333?&logo=visual-studio)
 ![Windows](https://img.shields.io/badge/-Windows-333?&logo=windows)
+**********will updated soon**********
 
 ---
 
@@ -59,6 +59,7 @@
 ![OOP](https://img.shields.io/badge/-OOP-333?&logo=cplusplus)
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-333?&logo=stack-overflow)
 ![Algorithms](https://img.shields.io/badge/-Algorithms-333?&logo=codeforces)
+**********will updated soon**********
 
 ---
 
@@ -66,9 +67,7 @@
 
 ### ⚙️ **Other Skills**
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-333?&logo=docker)
-
+**********will updated soon**********
 ---
 
 
