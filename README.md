@@ -1,9 +1,6 @@
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=700&color=F72585&background=00000000&center=true&vCenter=true&width=700&lines=🙏+Hey+there+👋+I'm+Janak+Joshi!❤️)](https://git.io/typing-svg)
 
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=800&color=00ADB5&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+%F0%9F%94%8E;Always+Learning+New+Things!+%F0%9F%93%9A;Breaking+Code+%26+Building+Ideas+%F0%9F%92%BB;Chai+%2B+Code+%3D+Productivity+%E2%98%95;Exploring+AI+%2B+Tech)](https://git.io/typing-svg)
 
 ---
 
@@ -34,7 +31,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-333?&logo=css3)
 ![PHP](https://img.shields.io/badge/-PHP-333?&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?&logo=mysql)
-************will updated soon**************
+************will update soon**************
 ---
 
 ---
@@ -46,7 +43,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?&logo=visual-studio-code)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333?&logo=visual-studio)
 ![Windows](https://img.shields.io/badge/-Windows-333?&logo=windows)
-**********will updated soon**********
+**********will update soon**********
 
 ---
 
@@ -59,7 +56,7 @@
 ![OOP](https://img.shields.io/badge/-OOP-333?&logo=cplusplus)
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-333?&logo=stack-overflow)
 ![Algorithms](https://img.shields.io/badge/-Algorithms-333?&logo=codeforces)
-**********will updated soon**********
+**********will update soon**********
 
 ---
 
@@ -67,7 +64,7 @@
 
 ### ⚙️ **Other Skills**
 
-**********will updated soon**********
+**********will update soon**********
 ---
 
 
