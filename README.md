@@ -7,7 +7,7 @@
 
 🎓 I'm a Computer Engineering graduate with a deep curiosity for all tech things.  
 👨‍💻 Passionate about building solutions that make life easier through technology.  
-🌐 Skilled in frontend & backend technologies — including PHP, JavaScript, React, HTML, CSS, and MySQL. 
+🌐 Skilled in frontend & backend technologies — including PHP, JavaScript, React, HTML, CSS, and MySQL.                      
 🌐 Actively exploring the field of Networking, Network Engineering, Cybersecurity, and Ethical Hacking.  
 🧠 Always learning new frameworks, tools, and languages to stay ahead in the tech game.  
 🤝 I enjoy collaborating on open-source projects, freelancing, and solving real-world problems with code.  
