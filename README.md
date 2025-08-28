@@ -10,7 +10,7 @@
 🌐 Skilled in frontend & backend technologies — including PHP, JavaScript, React, HTML, CSS, and MySQL.                      
 🌐 Actively exploring the field of Networking, Network Engineering, Cybersecurity, and Ethical Hacking.  
 🧠 Always learning new frameworks, tools, and languages to stay ahead in the tech game.  
-🤝 I enjoy collaborating on open-source projects, freelancing, and solving real-world problems with code.  
+🤝 I enjoy collaborating on open-source projects, freelancing, and solving real-world problems.  
 📫 Reach me at: [janakjoshi6789@gmail.com](mailto:janakjoshi6789@gmail.com)  
 
 ---
