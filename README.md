@@ -1,16 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:00bfff&height=230&section=header&text=Janak%20Raj%20Joshi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Network%20Administrator%20%7C%20Cybersecurity%20Student&descSize=20&descAlignY=58" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:003b2a,100:00ff9c&height=260&section=header&text=JANAK%20RAJ%20JOSHI&fontSize=56&fontColor=00ff9c&animation=twinkling&fontAlignY=38&desc=%5B%20Network%20Administrator%20%5D%20%5B%20Cybersecurity%20Student%20%5D%20%5B%20Future%20Pentester%20%5D&descSize=16&descColor=00bfff&descAlignY=60" alt="header" />
 
 <a href="https://github.com/Janak-Joshi6789">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&background=0D111700&center=true&vCenter=true&multiline=false&width=780&height=50&lines=%24+whoami+%E2%86%92+Janak+Raj+Joshi;%24+sudo+secure+--networks+--learn+--repeat;%24+nmap+-sV+target+%23+authorized+labs+only;%24+tail+-f+%2Fvar%2Fossec%2Flogs%2Falerts.log;Network+Administrator+%7C+Aspiring+Penetration+Tester;Securing+networks.+One+packet+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=00FF9C&background=0D111700&center=true&vCenter=true&width=800&height=50&lines=%5B%2B%5D+Initializing+profile...;%5B%2B%5D+Access+granted+%E2%9C%94;%24+whoami+%E2%86%92+janak%40network-admin;%24+sudo+secure+--networks+--learn+--repeat;%24+nmap+-sV+192.168.56.0%2F24+%23+my+lab+only;%24+tail+-f+%2Fvar%2Fossec%2Flogs%2Falerts.log;Securing+networks.+One+packet+at+a+time." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20HACKING%20(ETHICALLY)-00ff9c?style=for-the-badge&labelColor=0d1117" alt="status" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&labelColor=0d1117" alt="status" />
 <img src="https://img.shields.io/badge/ROLE-NETWORK%20ADMIN-00bfff?style=for-the-badge&labelColor=0d1117" alt="role" />
-<img src="https://img.shields.io/badge/GOAL-PENTESTER-ff3366?style=for-the-badge&labelColor=0d1117" alt="goal" />
+<img src="https://img.shields.io/badge/PATH-BLUE%20%2B%20RED%20TEAM-ff3366?style=for-the-badge&labelColor=0d1117" alt="path" />
+<img src="https://img.shields.io/badge/BASED%20IN-NEPAL%20%F0%9F%87%B3%F0%9F%87%B5-ffffff?style=for-the-badge&labelColor=0d1117" alt="location" />
 
 <br/><br/>
 
@@ -20,30 +21,29 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
 
-## 💻 `~/about-me`
+## 💻 `root@janak:~# cat about.txt`
 
 ```console
-root@janak:~# cat about.txt
+┌─[janak@kali]─[~]
+└──╼ $ neofetch --about
 
-  ┌──────────────────────────────────────────────────────────────┐
-  │  NAME       : Janak Raj Joshi                                │
-  │  DEGREE     : B.E. Computer Engineering (Purbanchal Univ.)   │
-  │  ROLE       : Network Administrator @ ITech International    │
-  │  LICENSE    : Registered Engineer, Nepal Engineering Council │
-  │  FOCUS      : Networking • Cybersecurity • Linux • SIEM      │
-  │  GOAL       : Network & Security Professional → Pentester    │
-  │  LOCATION   : Nepal 🇳🇵                                       │
-  └──────────────────────────────────────────────────────────────┘
+     ██╗ █████╗ ███╗   ██╗ █████╗ ██╗  ██╗
+     ██║██╔══██╗████╗  ██║██╔══██╗██║ ██╔╝      USER     : Janak Raj Joshi
+     ██║███████║██╔██╗ ██║███████║█████╔╝       DEGREE   : B.E. Computer Engineering
+██   ██║██╔══██║██║╚██╗██║██╔══██║██╔═██╗       UNIVERSITY: Purbanchal University
+╚█████╔╝██║  ██║██║ ╚████║██║  ██║██║  ██╗      JOB      : Network Administrator
+ ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝      LICENSE  : Registered Engineer (NEC Nepal)
+                                                 FOCUS    : Networking | Security | Linux | SIEM
+                                                 GOAL     : Network & Security Professional
+                                                 MOTTO    : Learn. Build. Secure.
 
-root@janak:~# echo $MOTTO
-"Learning continuously. Building practical skills. Securing networks."
-
-root@janak:~# _
+┌─[janak@kali]─[~]
+└──╼ $ _
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
 
 ## 🌐 `./networking --skills`
 
@@ -62,7 +62,7 @@ root@janak:~# _
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
 
 ## 🛡️ `./cybersecurity --tools`
 
@@ -80,9 +80,9 @@ root@janak:~# _
 
 </div>
 
-<p align="center"><i>⚠️ All tools and techniques are used for learning, authorized security testing, and defensive practice only.</i></p>
+<p align="center"><i>⚠️ Everything here is for learning, authorized security testing, and defensive practice only.</i></p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
 
 ## 🧰 `./environment`
 
@@ -94,30 +94,70 @@ root@janak:~# _
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
 
-## 🔭 `./currently --exploring`
+## 🧪 `./home-lab --plan`
 
-```diff
-+ Network security and secure infrastructure design
-+ Firewall configuration, VPNs, and access control
-+ Vulnerability assessment and ethical penetration testing
-+ SIEM monitoring, threat detection, and incident analysis with Wazuh
-+ Linux administration and advanced network troubleshooting
-- Next up: home lab with Wazuh + Kali + vulnerable VMs (VMware)
+My practice lab, planned on VMware. It is for attack-and-detect practice on machines I own.
+
+```text
+                      ┌────────────────────────┐
+                      │   Kali Linux (Attacker) │
+                      │   nmap • burp • msf     │
+                      └───────────┬────────────┘
+                                  │  isolated host-only network
+              ┌───────────────────┼───────────────────┐
+              │                   │                   │
+   ┌──────────▼─────────┐ ┌───────▼────────┐ ┌────────▼─────────┐
+   │ Vulnerable VMs     │ │ Windows / Linux │ │ Wazuh Server     │
+   │ (practice targets) │ │ endpoints+agent │ │ SIEM • alerts    │
+   └────────────────────┘ └────────────────┘ └──────────────────┘
+        RED TEAM: attack  ───────────────────►  BLUE TEAM: detect
 ```
 
----
+<details>
+<summary><b>📖 Illustrative lab output (example format)</b></summary>
+
+```console
+$ nmap -sV 192.168.56.101        # my own lab VM
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH
+80/tcp open  http    Apache httpd
+
+# Wazuh dashboard: what the blue team side watches for
+rule.description : sshd: authentication failed
+rule.level       : 5
+agent.name       : lab-endpoint-01
+```
+<sub>Format example only, showing the kind of work the lab is for.</sub>
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
+
+## 🗺️ `./learning --path`
+
+| Track | Focus | Status |
+|:---|:---|:---:|
+| 🌐 Networking | Routing, switching, VLANs, NAT, ACLs, OSPF | 🟢 Active |
+| 🐧 Linux | Administration, shell, troubleshooting | 🟢 Active |
+| 📊 SIEM | Wazuh, log analysis, threat detection | 🟢 Active |
+| 🔍 Vuln Assessment | Scanning, reporting, prioritization | 🟢 Active |
+| 🔓 Pentesting | Methodology, Burp, Metasploit, reporting | 🟡 Next |
+| 🔥 Network Security | Firewalls, VPNs, access control | 🟡 Next |
+| 🏆 Certifications | Choose and prepare for the next goal | ⚪ Planned |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
 
 ## 🎓 `./education --and --experience`
 
-- 🎓 **B.E. Computer Engineering** — Khwopa Engineering College, Purbanchal University
-- 💼 **Network Administrator** — ITech International
-- 🏛️ **Registered Engineer** — Nepal Engineering Council
-- 🛡️ **Cybersecurity Training** — Broadway Infosys
-- 🌐 **Cisco Academy** resources and hands-on networking/security labs
+- 🎓 **B.E. Computer Engineering**: Khwopa Engineering College, Purbanchal University
+- 💼 **Network Administrator**: ITech International
+- 🏛️ **Registered Engineer**: Nepal Engineering Council
+- 🛡️ **Cybersecurity Training**: Broadway Infosys
+- 🌐 **Cisco Academy** resources and hands-on networking and security labs
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
 
 ## 📊 `./github --stats`
 
@@ -132,25 +172,29 @@ root@janak:~# _
 
 <br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=Janak-Joshi6789&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
+
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Janak-Joshi6789&bg_color=0d1117&color=00ff9c&line=00bfff&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
 
 ## 🐍 `./contributions --snake`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Janak-Joshi6789/Janak-Joshi6789/output/github-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Janak-Joshi6789/janak-joshi6789/output/github-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
 
 ## 🤝 `./connect --me`
 
-I'm always happy to connect with network engineers, cybersecurity professionals, and open-source contributors.
+I'd love to connect with network engineers, cybersecurity professionals, and open-source contributors. If you work in security, let's trade notes.
 
 <div align="center">
 
@@ -164,8 +208,8 @@ I'm always happy to connect with network engineers, cybersecurity professionals,
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=00BFFF&center=true&vCenter=true&width=600&lines=%22The+only+truly+secure+system+is+one+that+is+powered+off.%22;Learning+continuously.+Building+practical+skills.+Securing+networks." alt="footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=00BFFF&center=true&vCenter=true&width=700&lines=%22The+only+truly+secure+system+is+one+that+is+powered+off.%22;Learning+continuously.+Building+practical+skills.+Securing+networks.;%5B%2B%5D+Connection+closed.+Thanks+for+visiting." alt="footer typing" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:00ff9c,100:0d1117&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:003b2a,100:0d1117&height=130&section=footer" alt="footer" />
 
 </div>
