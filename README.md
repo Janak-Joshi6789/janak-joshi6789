@@ -47,7 +47,6 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
 
 ## 🌐 `./networking --skills`
 
@@ -155,7 +154,7 @@ agent.name       : lab-endpoint-01
 
 ## 🏅 `./credentials`
 
-<div align="center">
+<div >
 
 <img src="https://img.shields.io/badge/B.E.-Computer%20Engineering-00ff9c?style=for-the-badge&labelColor=0d1117" alt="BE" /><br/>
 <img src="https://img.shields.io/badge/Registered%20Engineer-Nepal%20Engineering%20Council-00bfff?style=for-the-badge&labelColor=0d1117" alt="NEC" /><br/>
