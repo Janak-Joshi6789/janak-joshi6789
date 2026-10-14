@@ -113,44 +113,6 @@ How I approach security work in my lab:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
 
-## 🧪 `./home-lab --plan`
-
-My practice lab, planned on VMware. It is for attack-and-detect practice on machines I own.
-
-```text
-                      ┌────────────────────────┐
-                      │   Kali Linux (Attacker) │
-                      │   nmap • burp • msf     │
-                      └───────────┬────────────┘
-                                  │  isolated host-only network
-              ┌───────────────────┼───────────────────┐
-              │                   │                   │
-   ┌──────────▼─────────┐ ┌───────▼────────┐ ┌────────▼─────────┐
-   │ Vulnerable VMs     │ │ Windows / Linux │ │ Wazuh Server     │
-   │ (practice targets) │ │ endpoints+agent │ │ SIEM • alerts    │
-   └────────────────────┘ └────────────────┘ └──────────────────┘
-        RED TEAM: attack  ───────────────────►  BLUE TEAM: detect
-```
-
-<details>
-<summary><b>📖 Illustrative lab output (example format)</b></summary>
-
-```console
-$ nmap -sV 192.168.56.101        # my own lab VM
-PORT   STATE SERVICE VERSION
-22/tcp open  ssh     OpenSSH
-80/tcp open  http    Apache httpd
-
-# Wazuh dashboard: what the blue team side watches for
-rule.description : sshd: authentication failed
-rule.level       : 5
-agent.name       : lab-endpoint-01
-```
-<sub>Format example only, showing the kind of work the lab is for.</sub>
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
 
 ## 🏅 `./credentials`
 
