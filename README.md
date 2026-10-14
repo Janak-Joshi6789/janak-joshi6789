@@ -15,11 +15,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/Janak-Joshi6789"><img src="https://img.shields.io/badge/GitHub-Janak--Joshi6789-181717?style=for-the-badge&logo=github&logoColor=00ff9c" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/janak-joshi-088667287/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:janakjoshi6789@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Janak-Joshi6789&label=VISITORS&color=00ff9c&style=for-the-badge&labelColor=0d1117" alt="Visitors" />
 <img src="https://hits.sh/github.com/Janak-Joshi6789.svg?style=for-the-badge&label=PROFILE%20HITS&color=00bfff&labelColor=0d1117" alt="Profile hits" />
@@ -50,15 +45,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
 
-## 🎯 `./mission --current`
 
-```yaml
-mission:
-  now:    Managing and troubleshooting real networks as a Network Administrator
-  next:   Building a home lab to practice attack AND detection (Kali + Wazuh)
-  goal:   Grow into a network and security professional, then ethical pentester
-  rules:  Authorized targets only. Document everything. Never stop learning.
-```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" alt="divider" />
 
@@ -170,10 +157,10 @@ agent.name       : lab-endpoint-01
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/B.E.-Computer%20Engineering-00ff9c?style=for-the-badge&labelColor=0d1117" alt="BE" />
-<img src="https://img.shields.io/badge/Registered%20Engineer-Nepal%20Engineering%20Council-00bfff?style=for-the-badge&labelColor=0d1117" alt="NEC" />
-<img src="https://img.shields.io/badge/Cybersecurity%20Training-Broadway%20Infosys-ff3366?style=for-the-badge&labelColor=0d1117" alt="Broadway" />
-<img src="https://img.shields.io/badge/Networking-Cisco%20Academy%20Resources-049FD9?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117" alt="Cisco Academy" />
+<img src="https://img.shields.io/badge/B.E.-Computer%20Engineering-00ff9c?style=for-the-badge&labelColor=0d1117" alt="BE" /><br/>
+<img src="https://img.shields.io/badge/Registered%20Engineer-Nepal%20Engineering%20Council-00bfff?style=for-the-badge&labelColor=0d1117" alt="NEC" /><br/>
+<img src="https://img.shields.io/badge/Cybersecurity%20Training-Broadway%20Infosys-ff3366?style=for-the-badge&labelColor=0d1117" alt="Broadway" /><br/>
+<img src="https://img.shields.io/badge/Networking-Cisco%20Academy%20Resources-049FD9?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d1117" alt="Cisco Academy" /><br/>
 <img src="https://img.shields.io/badge/Experience-Network%20Administrator%20%40%20ITech-7C3AED?style=for-the-badge&labelColor=0d1117" alt="ITech" />
 
 </div>
@@ -232,9 +219,6 @@ agent.name       : lab-endpoint-01
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/janak-joshi-088667287/"><img src="https://img.shields.io/badge/LinkedIn-Janak%20Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/Janak-Joshi6789"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=00ff9c" alt="GitHub" /></a>
-<a href="mailto:janakjoshi6789@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
