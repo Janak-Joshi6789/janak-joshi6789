@@ -92,7 +92,7 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,kali,windows,bash,git,github,vscode,vmware,python&perline=9&theme=dark" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,windows,bash,git,github,vscode,python&perline=9&theme=dark" alt="tech stack" />
 </a>
 
 </div>
