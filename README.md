@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:003b2a,100:00ff9c&height=260&section=header&text=ER. JANAK%20RAJ%20JOSHI&fontSize=56&fontColor=00ff9c&animation=twinkling&fontAlignY=38&desc=%5B%20Network%20Administrator%20%5D%20%5B%20Cybersecurity%20Enthusiast%20%5D&descSize=16&descColor=00bfff&descAlignY=60" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:003b2a,100:00ff9c&height=260&section=header&text=ER.%20JANAK%20RAJ%20JOSHI&fontSize=56&fontColor=00ff9c&animation=twinkling&fontAlignY=38&desc=%5B%20Network%20Administrator%20%5D%20%5B%20Cybersecurity%20Enthusiast%20%5D&descSize=16&descColor=00bfff&descAlignY=60" alt="header" />
 
 <a href="https://github.com/Janak-Joshi6789">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=00FF9C&background=0D111700&center=true&vCenter=true&width=800&height=50&lines=%5B%2B%5D+Initializing+profile...;%5B%2B%5D+Loading+modules%3A+networking+%7C+linux+%7C+security;%5B%2B%5D+Access+granted+%E2%9C%94;%24+whoami+%E2%86%92+janak%40network-admin;%24+sudo+secure+--networks+--learn+--repeat;%24+nmap+-sV+192.168.56.0%2F24+%23+my+lab+only;%24+tail+-f+%2Fvar%2Fossec%2Flogs%2Falerts.log;Securing+networks.+One+packet+at+a+time." alt="Typing SVG" />
